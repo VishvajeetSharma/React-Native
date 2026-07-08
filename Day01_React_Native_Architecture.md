@@ -1,4 +1,4 @@
-# React Native Fundamentals - Interview Ready Notes
+# React Native Fundamentals
 
 ---
 
